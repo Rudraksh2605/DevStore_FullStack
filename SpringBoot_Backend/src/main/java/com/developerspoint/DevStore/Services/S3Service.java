@@ -1,6 +1,6 @@
 package com.developerspoint.DevStore.Services;
 
-import com.developerspoint.DevStore.AppMetaData;
+import com.developerspoint.DevStore.AppMetaData.AppMetaData;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;

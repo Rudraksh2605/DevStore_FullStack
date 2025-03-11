@@ -1,4 +1,4 @@
-package com.developerspoint.DevStore;
+package com.developerspoint.DevStore.AppMetaData;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;

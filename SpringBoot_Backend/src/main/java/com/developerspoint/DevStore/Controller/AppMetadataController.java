@@ -1,7 +1,7 @@
 package com.developerspoint.DevStore.Controller;
 
-import com.developerspoint.DevStore.AppMetaData;
-import com.developerspoint.DevStore.AppMetaDataRepository;
+import com.developerspoint.DevStore.AppMetaData.AppMetaData;
+import com.developerspoint.DevStore.AppMetaData.AppMetaDataRepository;
 import com.developerspoint.DevStore.Services.AppMetadataService;
 import org.springframework.web.bind.annotation.*;
 

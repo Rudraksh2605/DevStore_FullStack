@@ -1,8 +1,7 @@
 package com.developerspoint.DevStore.Services;
 
-import com.developerspoint.DevStore.AppMetaData;
-import com.developerspoint.DevStore.AppMetaDataRepository;
-import com.developerspoint.DevStore.AppMetaDataRepository;
+import com.developerspoint.DevStore.AppMetaData.AppMetaData;
+import com.developerspoint.DevStore.AppMetaData.AppMetaDataRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -1,6 +1,5 @@
-package com.developerspoint.DevStore;
+package com.developerspoint.DevStore.AppMetaData;
 
-import com.developerspoint.DevStore.AppMetaData;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -40,3 +40,6 @@ out/
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+# Ignore application-dev.properties
+src/main/resources/application-dev.properties

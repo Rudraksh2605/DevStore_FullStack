@@ -51,6 +51,7 @@ public class AppMetadataController {
     public String deleteApp(@PathVariable Long id) {
         service.deleteApp(id);
         return "App with ID " + id + " deleted successfully!";
+        
     }
 
 
